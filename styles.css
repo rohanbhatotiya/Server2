@@ -1,0 +1,416 @@
+.android-compact {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .android-compact .div {
+    background-color: #ffffff;
+    width: 420px;
+    height: 1828px;
+    position: relative;
+  }
+  
+  .android-compact .overlap-group {
+    height: 913px;
+    top: 0;
+    position: absolute;
+    width: 420px;
+    left: 0;
+  }
+  
+  .android-compact .elan-imperial {
+    position: absolute;
+    width: 420px;
+    height: 620px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .android-compact .text-wrapper {
+    position: absolute;
+    width: 84px;
+    top: 13px;
+    left: 24px;
+    font-family: "Italiana", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25.4px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .android-compact .vector {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 16px;
+    left: 375px;
+  }
+  
+  .android-compact .text-wrapper-2 {
+    position: absolute;
+    width: 243px;
+    top: 198px;
+    left: 88px;
+    font-family: "Italiana", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .android-compact .rectangle {
+    position: absolute;
+    width: 420px;
+    height: 301px;
+    top: 612px;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .android-compact .p {
+    position: absolute;
+    width: 210px;
+    top: 645px;
+    left: 28px;
+    font-family: "Italiana", Helvetica;
+    font-weight: 400;
+    color: #013b74;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .android-compact .line {
+    height: 238px;
+    top: 642px;
+    left: 247px;
+    object-fit: cover;
+    position: absolute;
+    width: 1px;
+  }
+  
+  .android-compact .two {
+    top: 632px;
+    position: absolute;
+    width: 148px;
+    height: 82px;
+    left: 264px;
+    object-fit: cover;
+  }
+  
+  .android-compact .img {
+    top: 722px;
+    position: absolute;
+    width: 148px;
+    height: 82px;
+    left: 264px;
+    object-fit: cover;
+  }
+  
+  .android-compact .two-2 {
+    top: 812px;
+    position: absolute;
+    width: 148px;
+    height: 82px;
+    left: 264px;
+    object-fit: cover;
+  }
+  
+  .android-compact .explore-projects {
+    position: absolute;
+    width: 130px;
+    height: 102px;
+    top: 768px;
+    left: 8px;
+    border-radius: 5px;
+    overflow: hidden;
+    border: 1px dashed;
+    border-color: #9747ff;
+  }
+  
+  .android-compact .property-default {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 3px 7px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    border: 1px solid;
+    border-color: #013b74;
+  }
+  
+  .android-compact .text-wrapper-3 {
+    color: #013b74;
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Coda", Helvetica;
+    font-weight: 400;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .android-compact .property-on-hover {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 3px 7px;
+    position: absolute;
+    top: 61px;
+    left: 20px;
+    background-color: #013b74;
+    border: 1px solid;
+  }
+  
+  .android-compact .text-wrapper-4 {
+    color: #ffffff;
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Coda", Helvetica;
+    font-weight: 400;
+    font-size: 10.5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .android-compact .overlap {
+    height: 784px;
+    top: 913px;
+    background-color: #013b74;
+    position: absolute;
+    width: 420px;
+    left: 0;
+  }
+  
+  .android-compact .text-wrapper-5 {
+    position: absolute;
+    width: 206px;
+    top: 16px;
+    left: 107px;
+    font-family: "Cinzel", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 28.2px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .android-compact .text-wrapper-6 {
+    position: absolute;
+    width: 142px;
+    top: 96px;
+    left: 13px;
+    font-family: "Cochin-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13.7px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .android-compact .text-wrapper-7 {
+    position: absolute;
+    width: 142px;
+    top: 266px;
+    left: 265px;
+    font-family: "Cochin-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13.7px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .android-compact .text-wrapper-8 {
+    position: absolute;
+    width: 142px;
+    top: 120px;
+    left: 13px;
+    font-family: "Cochin-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10.2px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .android-compact .text-wrapper-9 {
+    position: absolute;
+    width: 142px;
+    top: 289px;
+    left: 265px;
+    font-family: "Cochin-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10.2px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .android-compact .text-wrapper-10 {
+    position: absolute;
+    width: 142px;
+    top: 448px;
+    left: 13px;
+    font-family: "Cochin-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13.7px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .android-compact .text-wrapper-11 {
+    position: absolute;
+    width: 120px;
+    top: 471px;
+    left: 13px;
+    font-family: "Cochin-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10.2px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .android-compact .text-wrapper-12 {
+    position: absolute;
+    width: 142px;
+    top: 618px;
+    left: 267px;
+    font-family: "Cochin-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13.7px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .android-compact .text-wrapper-13 {
+    position: absolute;
+    width: 120px;
+    top: 641px;
+    left: 267px;
+    font-family: "Cochin-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 10.2px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .android-compact .gn {
+    top: 81px;
+    left: 176px;
+    position: absolute;
+    width: 239px;
+    height: 148px;
+    object-fit: cover;
+  }
+  
+  .android-compact .gn-2 {
+    top: 256px;
+    left: 5px;
+    position: absolute;
+    width: 239px;
+    height: 148px;
+    object-fit: cover;
+  }
+  
+  .android-compact .line-2 {
+    height: 115px;
+    top: 99px;
+    left: 168px;
+    position: absolute;
+    width: 1px;
+  }
+  
+  .android-compact .gn-3 {
+    top: 431px;
+    left: 176px;
+    position: absolute;
+    width: 239px;
+    height: 148px;
+    object-fit: cover;
+  }
+  
+  .android-compact .line-3 {
+    height: 115px;
+    top: 449px;
+    left: 168px;
+    position: absolute;
+    width: 1px;
+  }
+  
+  .android-compact .line-4 {
+    height: 119px;
+    top: 269px;
+    left: 252px;
+    position: absolute;
+    width: 1px;
+  }
+  
+  .android-compact .gn-4 {
+    top: 606px;
+    left: 5px;
+    position: absolute;
+    width: 239px;
+    height: 148px;
+    object-fit: cover;
+  }
+  
+  .android-compact .line-5 {
+    height: 119px;
+    top: 619px;
+    left: 252px;
+    position: absolute;
+    width: 1px;
+  }
+  
+  .android-compact .text-wrapper-14 {
+    position: absolute;
+    width: 116px;
+    top: 1719px;
+    left: 152px;
+    font-family: "Cardo", Helvetica;
+    font-weight: 400;
+    color: #013b74;
+    font-size: 19.5px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .android-compact .address-builder {
+    position: absolute;
+    width: 255px;
+    top: 1756px;
+    left: 82px;
+    font-family: "Cardo", Helvetica;
+    font-weight: 400;
+    color: #013b74;
+    font-size: 13.3px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
