@@ -27,6 +27,9 @@
     }
 
     .ample {
+        font-family: "Italiana", Helvetica;
+        font-weight: 400;
+        font-size: 25.4px;
         display: block;
         position: absolute;
         top: 1vh;
