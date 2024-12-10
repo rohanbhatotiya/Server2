@@ -1,416 +1,402 @@
-.android-compact {
-    background-color: #ffffff;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 100%;
-  }
-  
-  .android-compact .div {
-    background-color: #ffffff;
-    width: 420px;
-    height: 1828px;
-    position: relative;
-  }
-  
-  .android-compact .overlap-group {
-    height: 913px;
-    top: 0;
-    position: absolute;
-    width: 420px;
-    left: 0;
-  }
-  
-  .android-compact .elan-imperial {
-    position: absolute;
-    width: 420px;
-    height: 620px;
-    top: 0;
-    left: 0;
-    object-fit: cover;
-  }
-  
-  .android-compact .text-wrapper {
-    position: absolute;
-    width: 84px;
-    top: 13px;
-    left: 24px;
-    font-family: "Italiana", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 25.4px;
-    letter-spacing: 0;
-    line-height: normal;
-    white-space: nowrap;
-  }
-  
-  .android-compact .vector {
-    position: absolute;
-    width: 27px;
-    height: 27px;
-    top: 16px;
-    left: 375px;
-  }
-  
-  .android-compact .text-wrapper-2 {
-    position: absolute;
-    width: 243px;
-    top: 198px;
-    left: 88px;
-    font-family: "Italiana", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 40px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: normal;
-    white-space: nowrap;
-  }
-  
-  .android-compact .rectangle {
-    position: absolute;
-    width: 420px;
-    height: 301px;
-    top: 612px;
-    left: 0;
-    background-color: #ffffff;
-  }
-  
-  .android-compact .p {
-    position: absolute;
-    width: 210px;
-    top: 645px;
-    left: 28px;
-    font-family: "Italiana", Helvetica;
-    font-weight: 400;
-    color: #013b74;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .android-compact .line {
-    height: 238px;
-    top: 642px;
-    left: 247px;
-    object-fit: cover;
-    position: absolute;
-    width: 1px;
-  }
-  
-  .android-compact .two {
-    top: 632px;
-    position: absolute;
-    width: 148px;
-    height: 82px;
-    left: 264px;
-    object-fit: cover;
-  }
-  
-  .android-compact .img {
-    top: 722px;
-    position: absolute;
-    width: 148px;
-    height: 82px;
-    left: 264px;
-    object-fit: cover;
-  }
-  
-  .android-compact .two-2 {
-    top: 812px;
-    position: absolute;
-    width: 148px;
-    height: 82px;
-    left: 264px;
-    object-fit: cover;
-  }
-  
-  .android-compact .explore-projects {
-    position: absolute;
-    width: 130px;
-    height: 102px;
-    top: 768px;
-    left: 8px;
-    border-radius: 5px;
-    overflow: hidden;
-    border: 1px dashed;
-    border-color: #9747ff;
-  }
-  
-  .android-compact .property-default {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    padding: 3px 7px;
-    position: absolute;
-    top: 20px;
-    left: 20px;
-    border: 1px solid;
-    border-color: #013b74;
-  }
-  
-  .android-compact .text-wrapper-3 {
-    color: #013b74;
-    position: relative;
-    width: fit-content;
-    margin-top: -1.00px;
-    font-family: "Coda", Helvetica;
-    font-weight: 400;
-    font-size: 10.5px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .android-compact .property-on-hover {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    padding: 3px 7px;
-    position: absolute;
-    top: 61px;
-    left: 20px;
-    background-color: #013b74;
-    border: 1px solid;
-  }
-  
-  .android-compact .text-wrapper-4 {
-    color: #ffffff;
-    position: relative;
-    width: fit-content;
-    margin-top: -1.00px;
-    font-family: "Coda", Helvetica;
-    font-weight: 400;
-    font-size: 10.5px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .android-compact .overlap {
-    height: 784px;
-    top: 913px;
-    background-color: #013b74;
-    position: absolute;
-    width: 420px;
-    left: 0;
-  }
-  
-  .android-compact .text-wrapper-5 {
-    position: absolute;
-    width: 206px;
-    top: 16px;
-    left: 107px;
-    font-family: "Cinzel", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 28.2px;
-    letter-spacing: 0;
-    line-height: normal;
-    white-space: nowrap;
-  }
-  
-  .android-compact .text-wrapper-6 {
-    position: absolute;
-    width: 142px;
-    top: 96px;
-    left: 13px;
-    font-family: "Cochin-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 13.7px;
-    letter-spacing: 0;
-    line-height: normal;
-    white-space: nowrap;
-  }
-  
-  .android-compact .text-wrapper-7 {
-    position: absolute;
-    width: 142px;
-    top: 266px;
-    left: 265px;
-    font-family: "Cochin-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 13.7px;
-    letter-spacing: 0;
-    line-height: normal;
-    white-space: nowrap;
-  }
-  
-  .android-compact .text-wrapper-8 {
-    position: absolute;
-    width: 142px;
-    top: 120px;
-    left: 13px;
-    font-family: "Cochin-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 10.2px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .android-compact .text-wrapper-9 {
-    position: absolute;
-    width: 142px;
-    top: 289px;
-    left: 265px;
-    font-family: "Cochin-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 10.2px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .android-compact .text-wrapper-10 {
-    position: absolute;
-    width: 142px;
-    top: 448px;
-    left: 13px;
-    font-family: "Cochin-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 13.7px;
-    letter-spacing: 0;
-    line-height: normal;
-    white-space: nowrap;
-  }
-  
-  .android-compact .text-wrapper-11 {
-    position: absolute;
-    width: 120px;
-    top: 471px;
-    left: 13px;
-    font-family: "Cochin-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 10.2px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .android-compact .text-wrapper-12 {
-    position: absolute;
-    width: 142px;
-    top: 618px;
-    left: 267px;
-    font-family: "Cochin-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 13.7px;
-    letter-spacing: 0;
-    line-height: normal;
-    white-space: nowrap;
-  }
-  
-  .android-compact .text-wrapper-13 {
-    position: absolute;
-    width: 120px;
-    top: 641px;
-    left: 267px;
-    font-family: "Cochin-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 10.2px;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .android-compact .gn {
-    top: 81px;
-    left: 176px;
-    position: absolute;
-    width: 239px;
-    height: 148px;
-    object-fit: cover;
-  }
-  
-  .android-compact .gn-2 {
-    top: 256px;
-    left: 5px;
-    position: absolute;
-    width: 239px;
-    height: 148px;
-    object-fit: cover;
-  }
-  
-  .android-compact .line-2 {
-    height: 115px;
-    top: 99px;
-    left: 168px;
-    position: absolute;
-    width: 1px;
-  }
-  
-  .android-compact .gn-3 {
-    top: 431px;
-    left: 176px;
-    position: absolute;
-    width: 239px;
-    height: 148px;
-    object-fit: cover;
-  }
-  
-  .android-compact .line-3 {
-    height: 115px;
-    top: 449px;
-    left: 168px;
-    position: absolute;
-    width: 1px;
-  }
-  
-  .android-compact .line-4 {
-    height: 119px;
-    top: 269px;
-    left: 252px;
-    position: absolute;
-    width: 1px;
-  }
-  
-  .android-compact .gn-4 {
-    top: 606px;
-    left: 5px;
-    position: absolute;
-    width: 239px;
-    height: 148px;
-    object-fit: cover;
-  }
-  
-  .android-compact .line-5 {
-    height: 119px;
-    top: 619px;
-    left: 252px;
-    position: absolute;
-    width: 1px;
-  }
-  
-  .android-compact .text-wrapper-14 {
-    position: absolute;
-    width: 116px;
-    top: 1719px;
-    left: 152px;
-    font-family: "Cardo", Helvetica;
-    font-weight: 400;
-    color: #013b74;
-    font-size: 19.5px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-  .android-compact .address-builder {
-    position: absolute;
-    width: 255px;
-    top: 1756px;
-    left: 82px;
-    font-family: "Cardo", Helvetica;
-    font-weight: 400;
-    color: #013b74;
-    font-size: 13.3px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
+@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.ample {
+    display: none;
+}
+
+.tagline {
+    display: none;
+}
+
+@media (max-width: 480px) {
+    body, html {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        box-sizing: border-box;
+        overflow-x: hidden;
+    }
+
+    .one {
+        background-image: url("img/elan-imperial.png");
+        background-size: cover;
+        background-position: center;
+        object-fit: cover;
+        width: 100%;
+        height: 80vh; /* Adjust height as needed */
+    }
+
+    .ample {
+        display: block;
+        position: absolute;
+        top: 1vh;
+        left: 2vh;
+        margin: 0;
+        color: white;
+    }
+
+    .vector {
+        display: block;
+        position: absolute;
+        top: 5px;
+        left: 91vw;
+        z-index: 100;
+    }
+
+    .tagline {
+        font-family: "Italiana", Helvetica;
+        font-weight: 400;
+        font-size: 40px;
+        display: block;
+        position: relative;
+        top: 43vh;
+        text-align: center;
+        margin: 0;
+        color: white;
+    }
+
+    .two {
+        display: flex;
+        height: 308px;
+    }
+      
+    .left {
+        flex: 1.6;
+        padding: 2vw;
+        height: 100%;
+    }
+    
+    .right {
+        display: flex;
+        flex: 1;
+        flex-direction: column;
+        height: 100%;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+
+    .p {
+        transform: translateX(15px);
+        transform: translateY(10px);
+        font-family: "Italiana", Helvetica;
+        font-weight: 400;
+        color: #013b74;
+    }
+
+    .btn {
+        border: 1px solid #013b74; /* Added 'solid' to define the border style */
+        color: #013b74; /* Text color */
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 10px; /* Optional for better spacing */
+        padding-right: 10px;
+        background-color: white; /* Background color */
+        margin-top: 100px;
+        font-family: "Italiana", Helvetica; /* Font settings */
+        font-weight: 400;
+        text-align: center; /* Optional for centering text */
+        display: inline-block; /* Ensures it behaves like a button */
+    }
+      
+    .line {
+        position: relative;
+        height: 100%;
+        margin-right: 15px; /* Adjust the margin as needed */
+        margin-top: 28px;
+        margin-bottom: 28px;
+    }
+      
+    .image-container {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        height: 100%;
+        max-height: 288px;
+        transform: translateX(13px);
+        transform: translateX(-3px);
+
+    }
+      
+    .image-container img {
+        width: 100%; /* Make images responsive */
+        max-width: 32vw; /* Set a maximum width */
+        margin-bottom: 20px; /* Adjust the margin as needed */
+    }
+
+    .overlap {
+        background-color: #013b74;
+        height: 667px;
+        margin-top: 20px;
+    }
+
+    .gn, .gn-2, .gn-3, .gn-4 {
+        width: 51vw;
+        height: 120px;
+        object-fit: cover;
+    }
+
+    .text-1 {
+        position: relative;
+        width: 206px;
+        top: 16px;
+        left: 27vw;
+        font-family: "Cinzel", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 28.2px;
+        letter-spacing: 0;
+        line-height: normal;
+        white-space: nowrap;
+        margin-bottom: 32px;
+    }
+
+    .first {
+        display: flex;
+        height: 160px;
+        background-color: #013b74;
+    }
+
+    .first-text {
+        flex: 1;
+    }
+
+    .text-2 {
+        position: relative;
+        width: 142px;
+        top: 16px;
+        left: 8px;
+        font-family: "Cochin-Regular", Helvetica;
+        font-weight: 400;
+        color: white;
+        font-size: 13.7px;
+        letter-spacing: 0;
+        line-height: normal;
+        white-space: nowrap;
+    }
+
+    .text-3 {
+        position: relative;
+        width: 142px;
+        top: 23px;
+        left: 8px;
+        font-family: "Cochin-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 10.2px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .first-img {
+        flex: 1.5;
+    }
+
+    .gn {
+        position: relative;
+        top: 8px;
+        left: 25px;
+    }
+
+    .line-2 {
+        position: relative;
+        left: 17px;
+        top: 6px;
+    }
+
+    .second {
+        display: flex;
+        height: 160px;
+        background-color: #013b74;
+    }
+
+    .second-text {
+        flex: 1;
+    }
+
+    .text-4 {
+        position: relative;
+        width: 142px;
+        top: 16px;
+        left: 0px;
+        font-family: "Cochin-Regular", Helvetica;
+        font-weight: 400;
+        color: white;
+        font-size: 13.7px;
+        letter-spacing: 0;
+        line-height: normal;
+        white-space: nowrap;
+    }
+
+    .text-5 {
+        position: relative;
+        width: 142px;
+        top: 23px;
+        left: 0px;
+        font-family: "Cochin-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 10.2px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .second-img {
+        flex: 1.5;
+    }
+
+    .gn-2 {
+        position: relative;
+        top: 8px;
+        left: 8px;
+    }
+
+    .line-3 {
+        position: relative;
+        transform: translateX(15px);
+        top: 6px;
+    }
+
+    .third {
+        display: flex;
+        height: 160px;
+        background-color: #013b74;
+    }
+
+    .third-text {
+        flex: 1;
+    }
+
+    .text-6 {
+        position: relative;
+        width: 142px;
+        top: 16px;
+        left: 8px;
+        font-family: "Cochin-Regular", Helvetica;
+        font-weight: 400;
+        color: white;
+        font-size: 13.7px;
+        letter-spacing: 0;
+        line-height: normal;
+        white-space: nowrap;
+    }
+
+    .text-7 {
+        position: relative;
+        width: 142px;
+        top: 23px;
+        left: 8px;
+        font-family: "Cochin-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 10.2px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .third-img {
+        flex: 1.5;
+    }
+
+    .gn-3 {
+        position: relative;
+        top: 8px;
+        left: 25px;
+    }
+
+    .line-4 {
+        position: relative;
+        left: 17px;
+        top: 6px;
+    }
+
+    .fourth {
+        display: flex;
+        height: 160px;
+        background-color: #013b74;
+    }
+
+    .fourth-text {
+        flex: 1;
+    }
+
+    .text-8 {
+        position: relative;
+        width: 142px;
+        top: 16px;
+        left: 0px;
+        font-family: "Cochin-Regular", Helvetica;
+        font-weight: 400;
+        color: white;
+        font-size: 13.7px;
+        letter-spacing: 0;
+        line-height: normal;
+        white-space: nowrap;
+    }
+
+    .text-9 {
+        position: relative;
+        width: 142px;
+        top: 23px;
+        left: 0px;
+        font-family: "Cochin-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 10.2px;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .fourth-img {
+        flex: 1.5;
+    }
+
+    .gn-4 {
+        position: relative;
+        top: 8px;
+        left: 8px;
+    }
+
+    .line-5 {
+        position: relative;
+        transform: translateX(15px);
+        top: 6px;
+    }
+
+    .footer {
+        margin-top: 80px;
+        text-align: center;
+        margin-bottom: 40px;
+        height: 90px;
+    }
+
+    .text-10 {
+        position: relative;
+        width: 116px;
+        top: 0px;
+        left: 37vw;
+        font-family: "Cardo", Helvetica;
+        font-weight: 400;
+        color: #013b74;
+        font-size: 19.5px;
+        text-align: center;
+        letter-spacing: 0;
+        line-height: normal;
+    }
+
+    .address-builder {
+        position: relative;
+        width: 255px;
+        top: 1px;
+        left: 17vw;
+        font-family: "Cardo", Helvetica;
+        font-weight: 400;
+        color: #013b74;
+        font-size: 13.3px;
+        text-align: center;
+        letter-spacing: 0;
+        line-height: normal;
+      }
+}
